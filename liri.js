@@ -54,8 +54,10 @@ function useLiriOptions(liriOption){
       songName = liriTask;
       flag = false;
     }
-    else if(process.argv.length === 4){
-      songName = process.argv[3];
+    else if(process.argv.length >= 4){
+      for(var i = 3; i < process.argv.length; ++i){
+        songName += process.argv[i]+ " ";
+      }
     }
     else{
       songName = "The Sign by Ace of Base";
@@ -100,8 +102,10 @@ function useLiriOptions(liriOption){
       movieName = liriTask;
       flag = false;
     }
-    else if(process.argv.length === 4){
-      movieName = process.argv[3];
+    else if(process.argv.length >= 4){
+      for(var i = 3; i < process.argv.length; ++i){
+        movieName += process.argv[i]+ " ";
+      }
     }
     else{
       movieName = "Mr. Nobody";

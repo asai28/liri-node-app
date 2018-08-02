@@ -1,0 +1,157 @@
+Title: Mr. Nobody
+Release Year: 2009
+IMDB rating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Created at: Thu Aug 02 18:00:07 +0000 2018
+Message: Student tickets are available for #JSInteractive ✨ The price is $100. Please share with your friends, especially th… https://t.co/HzMTAFjKCXCreated at: Thu Aug 02 13:37:48 +0000 2018
+Message: ICYMI: Node v10.8.0 (Current) is now available 🎉Details here: https://t.co/3UBzKW7iruCreated at: Wed Aug 01 22:59:01 +0000 2018
+Message: ✨#JSInteractive will cover new features in #nodejs Core, the offline first approach to #webdevelopment, progressive… https://t.co/4TBFcYiwZaCreated at: Wed Aug 01 19:58:00 +0000 2018
+Message: We are excited to join #CallforCode 🎉 Want to learn more about this initiative? Check out this post from… https://t.co/QJ8O3dLsd0Created at: Thu Aug 02 13:34:02 +0000 2018
+Message: ✨@derrickharris of @architechtpub talks to the CTO of Condé Nast about pretty much everything, including #nodejs,… https://t.co/ToHOCTzP6DCreated at: Mon Jul 30 20:25:02 +0000 2018
+Message: ✨@gauravseth discusses why @msdev contributes to #nodejs and supports the Node.js Foundation in this #nfspotlight: https://t.co/v9jyblGgD2Created at: Mon Jul 30 15:53:01 +0000 2018
+Message: #jsinteractive has received over 300 applicants for our diversity scholarship. We would 💜 to offer as many scholars… https://t.co/KIRmPnROulCreated at: Mon Jul 30 14:42:43 +0000 2018
+Message: RT @liran_tal: 🧐 are you using the Node.js Security WG vulnerabilities db ?
+🤔 are you using any other open/free vulnerabilities db for Node…Created at: Fri Jul 27 22:20:00 +0000 2018
+Message: Tutorial: Building a Facebook Messenger Chat bot with #nodejs from Waleed Ahmad: https://t.co/yEvYGXXfGmCreated at: Wed Aug 01 16:40:44 +0000 2018
+Message: RT @speedynoise: Great session using @nodejs to build an Alexa skill! Check it out! 👇 /cc @alexadevs https://t.co/vnMn61ngdGCreated at: Mon Jul 30 22:16:36 +0000 2018
+Message: RT @bitandbang: 📈 @nodejs has significantly surpassed 1 trillion downloads
+
+Sources:
+📊 Official Node.js Metrics site: ~747,019,000 download…Created at: Fri Jul 27 18:38:34 +0000 2018
+Message: 🎉🎉🎉 https://t.co/JoYcevf6JoCreated at: Fri Jul 27 17:21:01 +0000 2018
+Message: In our latest #enterpriseconversation we talked with @ViriCiti about how they use #nodejs for real-time electric ve… https://t.co/LUHTFnaYvZCreated at: Fri Jul 27 16:28:32 +0000 2018
+Message: RT @NodeSource: ⚡️ The @nodejs Mentorship Initiative meeting is now live on YouTube: https://t.co/GEcJydSu2hCreated at: Fri Jul 27 16:10:33 +0000 2018
+Message: RT @the_jsf: .@dhimil recently explained why @BrowserStack wrote a simple pubsub in-house using @nodejs and Redis via @smashingmag. Read al…Created at: Fri Jul 27 12:54:29 +0000 2018
+Message: RT @RisingStack: Make sure you don't miss the most important #nodejs &amp; #javascript news of this week:
+
+🧐 Chrome Labs introduces ndb
+🎓 Linke…Created at: Thu Jul 26 19:26:01 +0000 2018
+Message: Two frameworks have appeared on the scene recently eschewing the long held belief that end to end testing of web ap… https://t.co/caPzv6QQXCCreated at: Thu Jul 26 19:10:51 +0000 2018
+Message: RT @Vikram_Tiwari: .@nodejs is now available on all the platforms on @googlecloud #GoogleNext18 https://t.co/38W2Vmf4siCreated at: Fri Jul 27 18:39:20 +0000 2018
+Message: @vjrngn Were you looking to be a mentor or mentee?Created at: Wed Aug 01 16:12:21 +0000 2018
+Message: RT @nearForm: A Day in the life of a #Nodejs core contributor. 
+@jasnell pulls back the curtains on how things work within the @nodejs core…Names of the artists:
+Backstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Name of the album: The Hits--Chapter OneBackstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Name of the album: MillenniumNames of the artists:
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/0A0F3AqFbEy1ZQgJwAXFzm
+Name of the album: The Essential Backstreet BoysNames of the artists:
+Backstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Name of the album: Covers Part IVNames of the artists:
+Manuel Costa
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Name of the album: I Want It That WayNames of the artists:
+Glee Cast
+Name of the song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview link of the song: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Name of the album: Bye Bye Bye / I Want It That Way (Glee Cast Version)Names of the artists:
+Anthem Lights
+"Weird Al" Yankovic
+Names of the artists:
+Name of the song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview link of the song: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Name of the album: Poodle HatBackstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Name of the album: 90 Sweet 90s Hits!Names of the artists:
+Dynamite Boy
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/7LfKQOyYrhtCEqR4rr2J2M
+Name of the album: Punk Goes PopNames of the artists:
+Backstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Name of the album: NKOTBSBNames of the artists:
+Steel Panther
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Name of the album: I Want It That WayNames of the artists:
+Boyce Avenue
+Names of the artists:
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Name of the album: Cover Sessions, Vol. 2Landon Austin & Julia Sheer
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/6sBR6yebVg4PX9ZzlgR4rr
+Name of the album: I Want It That WayNames of the artists:
+"Weird Al" Yankovic
+Name of the song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview link of the song: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Name of the album: The Essential "Weird Al" YankovicNames of the artists:
+Kyle Olthoff
+Destiny Jenkins
+Names of the artists:
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/01MwM46RP1hQqURHnWjxjl
+Name of the album: I Want It That WayScott Bradlee's Postmodern Jukebox
+Shoshana Bean
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Name of the album: Selfies on KodachromeNames of the artists:
+Jason Chen
+Joseph Vincent
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/38k1kWpEpMfMRBmyL5FMi6
+Name of the album: I Want It That WayNames of the artists:
+Backstreet Boys
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/4VyzyexBobu0w5hS3Bcmrg
+Name of the album: NOW That's What I Call 90s PopNames of the artists:
+Scary Pockets
+Casey Abrams
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Name of the album: Nu FunkNames of the artists:
+FROIDZ
+Name of the song: I Want It That Way
+Preview link of the song: https://open.spotify.com/album/5IOUHxPrLDjQtKF5PX1Ou8
+Name of the album: I Want It That WayNames of the artists:
+Title: The Lion King
+Release Year: 1994
+IMDB rating: 8.5/10
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+Created at: Thu Aug 02 18:00:07 +0000 2018
+Message: Student tickets are available for #JSInteractive ✨ The price is $100. Please share with your friends, especially th… https://t.co/HzMTAFjKCXCreated at: Thu Aug 02 13:37:48 +0000 2018
+Message: ICYMI: Node v10.8.0 (Current) is now available 🎉Details here: https://t.co/3UBzKW7iruCreated at: Thu Aug 02 13:34:02 +0000 2018
+Message: ✨@derrickharris of @architechtpub talks to the CTO of Condé Nast about pretty much everything, including #nodejs,… https://t.co/ToHOCTzP6DCreated at: Wed Aug 01 22:59:01 +0000 2018
+Message: ✨#JSInteractive will cover new features in #nodejs Core, the offline first approach to #webdevelopment, progressive… https://t.co/4TBFcYiwZaCreated at: Wed Aug 01 19:58:00 +0000 2018
+Message: We are excited to join #CallforCode 🎉 Want to learn more about this initiative? Check out this post from… https://t.co/QJ8O3dLsd0Created at: Wed Aug 01 16:40:44 +0000 2018
+Message: RT @speedynoise: Great session using @nodejs to build an Alexa skill! Check it out! 👇 /cc @alexadevs https://t.co/vnMn61ngdGCreated at: Mon Jul 30 22:16:36 +0000 2018
+Message: RT @bitandbang: 📈 @nodejs has significantly surpassed 1 trillion downloads
+
+Sources:
+📊 Official Node.js Metrics site: ~747,019,000 download…Created at: Wed Aug 01 16:12:21 +0000 2018
+Message: RT @nearForm: A Day in the life of a #Nodejs core contributor. 
+@jasnell pulls back the curtains on how things work within the @nodejs core…Created at: Mon Jul 30 15:53:01 +0000 2018
+Message: #jsinteractive has received over 300 applicants for our diversity scholarship. We would 💜 to offer as many scholars… https://t.co/KIRmPnROulCreated at: Mon Jul 30 14:42:43 +0000 2018
+Message: RT @liran_tal: 🧐 are you using the Node.js Security WG vulnerabilities db ?
+🤔 are you using any other open/free vulnerabilities db for Node…Created at: Fri Jul 27 22:20:00 +0000 2018
+Message: Tutorial: Building a Facebook Messenger Chat bot with #nodejs from Waleed Ahmad: https://t.co/yEvYGXXfGmCreated at: Fri Jul 27 18:39:20 +0000 2018
+Message: @vjrngn Were you looking to be a mentor or mentee?Created at: Fri Jul 27 18:38:34 +0000 2018
+Message: 🎉🎉🎉 https://t.co/JoYcevf6JoCreated at: Fri Jul 27 17:21:01 +0000 2018
+Message: In our latest #enterpriseconversation we talked with @ViriCiti about how they use #nodejs for real-time electric ve… https://t.co/LUHTFnaYvZCreated at: Fri Jul 27 16:28:32 +0000 2018
+Message: RT @NodeSource: ⚡️ The @nodejs Mentorship Initiative meeting is now live on YouTube: https://t.co/GEcJydSu2hCreated at: Fri Jul 27 16:10:33 +0000 2018
+Message: RT @the_jsf: .@dhimil recently explained why @BrowserStack wrote a simple pubsub in-house using @nodejs and Redis via @smashingmag. Read al…Created at: Fri Jul 27 12:54:29 +0000 2018
+Message: RT @RisingStack: Make sure you don't miss the most important #nodejs &amp; #javascript news of this week:
+
+🧐 Chrome Labs introduces ndb
+🎓 Linke…Created at: Thu Jul 26 19:26:01 +0000 2018
+Message: Two frameworks have appeared on the scene recently eschewing the long held belief that end to end testing of web ap… https://t.co/caPzv6QQXCCreated at: Thu Jul 26 19:10:51 +0000 2018
+Message: RT @Vikram_Tiwari: .@nodejs is now available on all the platforms on @googlecloud #GoogleNext18 https://t.co/38W2Vmf4siCreated at: Mon Jul 30 20:25:02 +0000 2018
+Message: ✨@gauravseth discusses why @msdev contributes to #nodejs and supports the Node.js Foundation in this #nfspotlight: https://t.co/v9jyblGgD2

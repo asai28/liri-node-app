@@ -1,18 +1,18 @@
 console.log('this is loaded');
 
-exports.twitter = {
-  consumer_key: TWITTER_CONSUMER_KEY,
-  consumer_secret: TWITTER_CONSUMER_SECRET,
-  access_token_key: TWITTER_ACCESS_TOKEN_KEY,
-  access_token_secret: TWITTER_ACCESS_TOKEN_SECRET
+module.exports.twitter = {
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 };
 
-exports.spotify = {
-  id: SPOTIFY_ID,
-  secret: SPOTIFY_SECRET
+module.exports.spotify = {
+  id: process.env.SPOTIFY_ID,
+  secret: process.env.SPOTIFY_SECRET
 };
 
-exports.omdb = {
-  i: OMDB_ID,
-  apikey: OMDB_APIKEY
+module.exports.omdb = {
+  i: process.env.OMDB_ID,
+  apikey: process.env.OMDB_APIKEY
 };

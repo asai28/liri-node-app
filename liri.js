@@ -30,6 +30,7 @@ else{
 function useLiriOptions(liriOption){
   switch(liriOption){
     case "my-tweets": 
+    //var name = process.argv[3];
     var params = {screen_name: 'nodejs', count: 20};
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
       if (!error) {
